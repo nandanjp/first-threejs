@@ -1,3 +1,20 @@
+# Nandan's Homepage
+
+[http://github.nandanjp.io/](http://github.nandanjp.io/)
+
+## Landing Page
+
+![Landing Page](./public/thumbnail.jpg)
+
+## Stack
+
+- [Reactjs](https://reactjs.org/) - "A JavaScript library for building user interfaces"
+- [Three.js](https://threejs.org/) - 3D library for JavaScript
+
+## License
+
+MIT License.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
